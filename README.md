@@ -5,7 +5,7 @@ I'm a brazilian Front-end Developer graduated in Internet Systems and have 2+ ye
 
 <!-- 🔭 I’m currently working on e-commerces development
 </br> -->
-🌱 I’m currently learning React.js
+🌱 I’m currently learning ReactJS
 </br>
 ⚡ Fun fact: I can sing a bit
 
@@ -29,14 +29,15 @@ I'm a brazilian Front-end Developer graduated in Internet Systems and have 2+ ye
   📫 You can reach me on:
   </br></br>
   <a href="https://www.linkedin.com/in/gabriellycastro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/gabriellyecastro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/gabriellyecastro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@gabriellycastro" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 </div>
 
 ##
 
-<div align="center">
+<div>
   <a href="https://github.com/gabriellycastro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellycastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriellycastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellycastro&layout=compact&langs_count=7&theme=dracula"/>
   </a>
   

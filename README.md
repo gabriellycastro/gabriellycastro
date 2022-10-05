@@ -7,7 +7,7 @@ I'm a brazilian Front-end Developer graduated in Internet Systems and have 3 yea
 </br>
 🌱 Always improving my ReactJS skills
 </br>
-⚡ Fun fact: I can sing
+⚡ Fun fact: I love singing! ♥️
 </br>
 ✨ Languages: Portuguese (native), English and a bit of French
 

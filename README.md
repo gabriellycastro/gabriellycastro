@@ -1,6 +1,6 @@
 ## Hi there! 👋 My name is Gabrielly
 
-I'm a brazilian Front-end Developer graduated in Internet Systems and have 3 years of experience with the e-commerce platform VTEX.
+I'm a brazilian Front-end Developer graduated in Internet Systems and have 5 years of experience with the e-commerce platform VTEX.
 </br>
 
 🔭 I work with e-commerces development
